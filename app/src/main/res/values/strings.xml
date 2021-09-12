@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Caldas</string>
+    <string name="caldas1">Manizales.</string>
+    <string name="caldas2">Parque los Nevados.</string>
+    <string name="caldas3">Zona Centro.</string>
+    <string name="caldas4">Zona Oriente.</string>
+    <string name="caldas5">Salamina.</string>
+
+
+</resources>
